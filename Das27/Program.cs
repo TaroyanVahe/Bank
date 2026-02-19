@@ -83,4 +83,5 @@ Yerevan.GetTax(habitant1, 250);
 AEB.CheckUserData();
 AmeriaBank.CheckUserData();
 
+Console.WriteLine();
 
